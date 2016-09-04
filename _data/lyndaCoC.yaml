@@ -8,6 +8,12 @@
 #   length: 
 #   url: 
 
+- course: Building a Mobile App with AngularJS 1 and Ionic
+  completed: 2016-09
+  certificateNumber: 2D5E69C89D94417D9DE8A08E544E0074
+  length: 3h 31m
+  url: https://www.lynda.com/tutorial/368920
+
 - course: Up and Running with Node.js
   completed: 2016-09
   certificateNumber: 570144E439FB4406B8FE8131D994BDBF
