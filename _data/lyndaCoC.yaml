@@ -1,9 +1,138 @@
-- course: Up and Running with AngularJS 1
-  completed: 2016-08
-  certificateNumber: 8C74862D9EED4119961BE05F732F305A
-  length: 1h 20m
-
 # - course: 
 #   completed: 
 #   certificateNumber: 
 #   length: 
+#   url: 
+
+- course: Up and Running with Node.js
+  completed: 2016-09
+  certificateNumber: 570144E439FB4406B8FE8131D994BDBF
+  length: 57m 40s
+  url: https://www.lynda.com/tutorial/370605
+
+- course: Up and Running with AngularJS 1
+  completed: 2016-08
+  certificateNumber: 8C74862D9EED4119961BE05F732F305A
+  length: 1h 20m
+  url: https://www.lynda.com/tutorial/154414
+
+- course: Jekyll for Web Designers
+  completed: 2016-05
+  certificateNumber: 41E568CDCD3B48E9BF8D323D04E76B65
+  length: 4h 27m
+  url: https://www.lynda.com/tutorial/383124
+
+- course: Comparing Swift and Objective-C
+  completed: 2015-04
+  certificateNumber: 23A244139E9740F58EAA3C1A32866EB4
+  length: 1h 30m
+  url: https://www.lynda.com/tutorial/185037
+
+- course: iOS Game Development with Sprite Kit
+  completed: 2015-04
+  certificateNumber: BD743650193545F7BAE369E4F23D528E
+  length: 5h 48m
+  url: https://www.lynda.com/tutorial/185036
+
+- course: iOS 8 App Development with Swift 1 Essential Training
+  completed: 2015-04
+  certificateNumber: BD743650193545F7BAE369E4F23D528E
+  length: 5h 48m
+  url: https://www.lynda.com/tutorial/185036
+
+- course: Swift Essential Training
+  completed: 2015-02
+  certificateNumber: 592039F285AF4F7F919B3AFB44C3424C
+  length: 
+  url: 
+
+- course: Building Adaptive Android Apps with Fragments
+  completed: 2014-09
+  certificateNumber: 18574CC82526417996A09C09934D1273
+  length: 2h 8m
+  url: https://www.lynda.com/tutorial/164465
+
+- course: Foundations of Programming - Object-Oriented Design
+  completed: 2014-06
+  certificateNumber: 9613AAE8699C43BBA3B4CA4394DA6D23
+  length: 3h 1m
+  url: https://www.lynda.com/tutorial/96949
+
+- course: Android Studio First Look
+  completed: 2014-05
+  certificateNumber: 322144B3357641608DA61B1DD3646719
+  length: 2h 22m
+  url: https://www.lynda.com/tutorial/143103
+
+- course: Android SDK Essential Training
+  completed: 2014-05
+  certificateNumber: 8D5EDF97406043BC8E590B74CD03A5C9
+  length: 5h 10m
+  url: 
+
+- course: iOS App Development Essential Training
+  completed: 2014-03
+  certificateNumber: E2F940CE043743BCAD6D6185BF608C5B
+  length: 6h 16m
+  url: https://www.lynda.com/tutorial/159179
+
+- course: Objective-C Essential Training
+  completed: 2013-12
+  certificateNumber: 9EFE4322BAF84413A27A2A0FAEEE38B5
+  length: 6h 2m
+  url: https://www.lynda.com/tutorial/143328
+
+- course: UX Design Techniques - Overview
+  completed: 2013-12
+  certificateNumber: 776F7A713AB4417F963E769E97283D5E
+  length: 13m 53s
+  url: https://www.lynda.com/tutorial/144083
+
+- course: Objective-C Essential Training (2011)
+  completed: 2013-12
+  certificateNumber: E3770FA28D474D50A21CCD68075DE7A5
+  length: 
+  url: 
+
+- course: Foundations of Programming - Software Quality Assurance
+  completed: 2013-11
+  certificateNumber: 44DE18E59DA34ECDA70379B5F6C5F46B
+  length: 1h 24m
+  url: https://www.lynda.com/tutorial/126119
+
+- course: Bridge CC for Photographers
+  completed: 2013-10
+  certificateNumber: 0D6BE191DBB84A8F962133538D29D836
+  length: 1h 50m
+  url: https://www.lynda.com/tutorial/126060
+
+- course: Creating a Responsive Web Design (2012)
+  completed: 2013-09
+  certificateNumber: D3620AEDF1174E568B9DB4F4CE3B208B
+  length: 
+  url: 
+
+- course: Managing Your Time
+  completed: 2013-08
+  certificateNumber: B3B5D2B336794B55B6BA6135583ED077
+  length: 11m 11s
+  url: https://www.lynda.com/tutorial/143455
+
+- course: JavaScript Essential Training
+  completed: 2013-05
+  certificateNumber: 859995B908B04B29B288E9001F4FA911
+  length: 5h 31m
+  url: https://www.lynda.com/tutorial/81266
+
+- course: jQuery Mobile Essential Training
+  completed: 2013-05
+  certificateNumber: 914B153E40894F7697874B3490765F6D
+  length: 
+  url: 
+
+- course: Photoshop CS6 One-on-One - Fundamentals
+  completed: Oct 11, 2012 
+  certificateNumber: 3B9BEF1B14B146AE889032A008217EB6
+  length: 6h 39m
+  url: https://www.lynda.com/tutorial/97713
+
