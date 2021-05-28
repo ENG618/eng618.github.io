@@ -1,39 +1,49 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
-    description: 'Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.',
-    author: '@gatsbyjs',
+    title: 'garciaericn',
+  },
+  flags: {
+    DEV_SSR: true,
+    FAST_DEV: true,
+    FAST_REFRESH: true,
+    PRESERVE_FILE_DOWNLOAD_CACHE: true,
+    PRESERVE_WEBPACK_CACHE: true,
   },
   plugins: [
+    'gatsby-plugin-theme-ui',
     {
-      resolve: 'gatsby-theme-notes',
+      resolve: 'gatsby-plugin-google-analytics',
       options: {
-        // basePath defaults to `/`
-        basePath: '/notes',
+        trackingId: 'G-5Q413VJK5H',
       },
     },
+    'gatsby-plugin-sharp',
     'gatsby-plugin-react-helmet',
+    'gatsby-plugin-sitemap',
+    'gatsby-plugin-offline',
+    {
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        icon: 'src/images/icon.png',
+      },
+    },
+    'gatsby-plugin-mdx',
+    'gatsby-transformer-sharp',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: 'images',
-        path: `${__dirname}/src/images`,
+        path: './src/images/',
       },
+      __key: 'images',
     },
-    'gatsby-transformer-sharp',
-    'gatsby-plugin-sharp',
     {
-      resolve: 'gatsby-plugin-manifest',
+      resolve: 'gatsby-source-filesystem',
       options: {
-        name: 'Eric N. Garcia',
-        short_name: 'ENG618',
-        start_url: '/',
-        background_color: '#303F9F',
-        theme_color: '#303F9F',
-        display: 'standalone',
-        icon: 'src/images/icon.png', // This path is relative to the root of the site.
+        name: 'pages',
+        path: './src/pages/',
       },
+      __key: 'pages',
     },
-    'gatsby-plugin-offline',
   ],
 };
